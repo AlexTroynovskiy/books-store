@@ -1,0 +1,1 @@
+{"version":3,"sources":["slickSlider.scss"],"names":[],"mappings":"AAAA,sCAEE,aAAc","file":"main.05581613.chunk.css","sourcesContent":[".slick-prev:before,\n.slick-next:before {\n  color: #484848;\n}\n"]}

@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: BookList To have nested elements To match snapshot 1`] = `
+<div
+  className="MuiContainer-root makeStyles-container-1 MuiContainer-maxWidthLg"
+>
+  <fieldset
+    className="MuiFormControl-root makeStyles-form-3"
+  >
+    <div
+      aria-label="position"
+      className="MuiFormGroup-root MuiFormGroup-row"
+    >
+      <label
+        className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementStart"
+      >
+        <span
+          className="MuiSwitch-root"
+        >
+          <span
+            aria-disabled={false}
+            className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-36 MuiSwitch-switchBase MuiSwitch-colorPrimary"
+            onBlur={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={null}
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <input
+                className="PrivateSwitchBase-input-39 MuiSwitch-input"
+                disabled={false}
+                onChange={[Function]}
+                type="checkbox"
+                value="start"
+              />
+              <span
+                className="MuiSwitch-thumb"
+              />
+            </span>
+          </span>
+          <span
+            className="MuiSwitch-track"
+          />
+        </span>
+        <span
+          className="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          Show Only Favourites
+        </span>
+      </label>
+    </div>
+  </fieldset>
+  <div
+    className="MuiContainer-root makeStyles-root-2 MuiContainer-maxWidthLg"
+  >
+    <div
+      className="makeStyles-root-82"
+    >
+      <div
+        className="MuiCircularProgress-root MuiCircularProgress-colorSecondary MuiCircularProgress-indeterminate"
+        role="progressbar"
+        style={
+          Object {
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <svg
+          className="MuiCircularProgress-svg"
+          viewBox="22 22 44 44"
+        >
+          <circle
+            className="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+            cx={44}
+            cy={44}
+            fill="none"
+            r={20.2}
+            strokeWidth={3.6}
+            style={Object {}}
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;

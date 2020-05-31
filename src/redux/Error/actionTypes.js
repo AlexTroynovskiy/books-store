@@ -1,0 +1,1 @@
+export const FETCH_FAILURE = 'FETCH_FAILURE';

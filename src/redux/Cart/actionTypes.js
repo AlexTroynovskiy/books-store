@@ -1,0 +1,7 @@
+export const TOGGLE_CART = 'TOGGLE_CART';
+export const FETCH_CART_BOOKS = 'FETCH_CART_BOOKS';
+export const INCREMENT_COUNT = 'INCREMENT_COUNT';
+export const DECREMENT_COUNT = 'DECREMENT_COUNT';
+export const ORDER_BOOKS = 'ORDER_BOOKS';
+export const SET_LOADING = 'SET_LOADING';
+export const RESET_CART = 'RESET_CART';
